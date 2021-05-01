@@ -27,89 +27,81 @@ Amanager est un projet créé par [ISO Land](https://iso-land.org).
 
 *Voici une petite liste des commandes du bot Amanager. Vous trouverez plus de détails dans la [documentation](https://amanagerx.iso-land.org)*
 
-*Le préfix par défaut du bot est : '+'*
+*Le préfix par défaut du bot est : '/' (il utilise les commandes slash)*
 
-### Utilitaires :
+- help
 
-* Bot info
-* Invite
-* Weather
-* Meme
-* Avatar
-* Lenght
-* Shorten
-* Pwd
-* Rng
-* Wikipédia
-* Serverinfo
-* Userinfo
-* Poll
-* Color
-* Encode
-* Decode
-* Remindme 
+- ### Utilitaire :
 
-### Fun :
+  - ping
+  - invite
+  - changelog
+  - weather
+  - avatar
+  - length
+  - pwd
+  - rng
+  - serverinfo
+  - userinfo
+  - poll
+  - color
+  - remindme
 
-* Gif
-* Blague
-* Pcomp
-* Coin
-* Roll
-* Apod
-* Meme
-* Elonbaby
-* Lenny
-* 8ball
-* Cat
-* Dog
-* Panda
-* Redpanda
-* Bird
-* Fox
-* Koala
-* Rainbow
-* Glass
-* Wasted
-* Triggered
-* Grey
-* Invert
-* Sepia
+- ### Fun :
 
-### Role Play :
+  - gif
+  - blague
+  - pcomp
+  - coin
+  - roll
+  - apod
+  - meme
+  - elonbaby
+  - lenny
+  - cat
+  - dog
+  - rainbow
+  - glass
+  - wasted
+  - grey
+  - invert
+  - sepia
 
-* Halloween
-* Cookie
-* Goodnight
-* Hello
-* Scare
-* Pat
-* Wink
-* Hug
-* Thank
-* Bite
-* Kill
-* Dance
-* Punch
-* Birthday
+- ### Role-Play :
 
-### Jeux vidéos :
+  - halloween
+  - cookie
+  - goodnight
+  - hello
+  - scare
+  - pat
+  - wink
+  - hug
+  - thank
+  - bite
+  - kill
+  - dance
+  - punch
+  - birthday
 
-* Achievement
-* Mcstats
-* Search
-* Hp
-* Osu
+- ### Jeux vidéos :
 
-### Economie
+  - mcstats
 
-* Start
-* Card
-* Rank
-* Rep
-* Top
-* Daily
-* Give
+- ### Economie
 
-### Remérciements :
-* Remerciments
+  - start
+  - card
+  - rank
+  - ~~rep~~
+  - top
+  - ~~daily~~
+  - give
+  - ~~work~~
+
+- (les commandes barrées ne sont pas disponible pour le moment car le système de cooldown n'est pas encore disponible avec les commandes Slash.
+Merci de votre compréhension.
+
+- ### Remerciements :
+
+  - remerciements
